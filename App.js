@@ -28,7 +28,7 @@ export default class App extends Component<Props> {
           Welcome to React Native!
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit App.js(sde)
+         ssss To get started, edit App.js(sde)
         </Text>
         <Text style={styles.instructions}>
           {instructions}
